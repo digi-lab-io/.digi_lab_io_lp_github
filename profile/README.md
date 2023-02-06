@@ -7,16 +7,6 @@
     </a>
 </p>
 
-<h3 align="center">
-    <a href="https://digi-lab.io#gh-dark-mode-only" target="_blank">
-        <img src="/img/white/text.svg" height="15" alt="digi-lab.io">
-    </a>
-    <a href="https://digi-lab.io#gh-light-mode-only" target="_blank">
-        <img src="/img/black/text.svg" height="15" alt="digi-lab.io">
-    </a>
-
-</h3>
-
 <br>
 
 <p align="center">
